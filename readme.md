@@ -2,16 +2,16 @@
 #### {A webpage that shows what we do as an organization}, {22/11/21}
 #### By *{List of contributors}*
 ## Description
-{This application has varios purpose which include knowing how design works , and web development of a page which one may want to create and a simple and small detail about product management concerning your business goal. }
+{This application has various purpose which include knowing how design works , and web development of a page which one may want to create and a simple and small detail about product management concerning your business goal. }
 ## Setup/Installation Requirements
-* Clone the repo {git clone https://github.com/jonnygovish/cookie-recipe.git}
+* Clone the repo {git clone https://george-gichuru.github.io/makaveli/
 * to list setup instructions
 * in a simple
 * easy-to-understand
 * format
 {Leave nothing to chance! This code does not depend on nothing which my bring problems?}
 ## Live link
-
+https://george-gichuru.github.io/makaveli/
 ## Known Bugs
 {I beleive that this application contains no bugs. }
 ## Technologies Used
